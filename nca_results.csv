@@ -1,0 +1,10 @@
+Parameter,IV Bolus,Oral
+Cmax (mg/L),1.9742,1.4504
+Tmax (h),0.25,2.0
+AUC_last (mg·h/L),13.16,14.353
+AUC_inf (mg·h/L),13.169,14.365
+lambda_z (h-1),0.1506,0.1538
+t½ (h),4.6,4.51
+CL (L/h),7.593,N/A
+Vd (L),50.42,N/A
+R2 terminal,0.9999,0.9998

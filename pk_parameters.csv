@@ -1,0 +1,4 @@
+Model,Vd(L),kel(h-1),t_half(h),CL(L/h)
+1-comp IV (true),50.0,0.15,4.62,7.5
+1-comp IV (fit),48.93,0.1492,4.65,7.3
+2-comp IV,100.0,0.15,4.62,4.5
